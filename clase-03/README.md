@@ -33,3 +33,12 @@ git add . # con esto agrevo todo al staging area
 git add clase-/README.md
 
 ```
+## GIt DIFF
+> para ver las diferencias entre el Working Directory y el local Repo
+
+## GIT LOG
+Para salir del comando git log, tengo que presionar la tecla "q"
+```sh
+git log #version larga de las historia del repo
+git log --oneline #version resumida
+```
