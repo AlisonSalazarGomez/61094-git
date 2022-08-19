@@ -15,3 +15,22 @@ git remote rename origin pepito
 Nos srive para hacer una copia exacta del repositorio y su metadata (.git)
 git clone <url> # Me va a clonar el repo dentro de una carpeta con el nombre del repo
 git clone <url> . # Se clona en la carpeta actual, sin crear ninguna carpeta extra 
+## GIT SWITCH
+Me permite cambiar entre ramas 
+>Cambiar de rama
+```sh
+git branch <nombre-tama-nueva>
+git branch dev
+``` 
+>Para borrar una rama
+```sh
+git branch -d <nombre - rama-nueva>
+git branch dev
+```
+>Para borrar una rama
+
+## GIT MERGE (fusionar ramas)
+Me permite unificar cambios de diferentes. Fusionar el contenido que tengan las ramas
+
+**IMPORTANTE:**
+
