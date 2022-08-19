@@ -9,4 +9,6 @@ git remote add <alias> <url>
 
 ```sh
 git remote rename <alias-original> <alias-nuevo>
+git remote rename origin pepito
+
 ```
