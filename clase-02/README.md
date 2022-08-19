@@ -32,5 +32,20 @@ git branch dev
 ## GIT MERGE (fusionar ramas)
 Me permite unificar cambios de diferentes. Fusionar el contenido que tengan las ramas
 
-**IMPORTANTE:**
+**IMPORTANTE:** tengo que estar en la rama destino. O sea por ejemplo. SI quiero traerme los cambios que tengo en dev a master. Tengo que estar posicionado en la rama 
+**MASTER**
+```sh
+git switch master
+git merge dev
+```
+
+## SARASA, todo piola!
+
+## pasar a rama principal
+```sh git swtich master
+git merge dev
+```
+
+
+
 
