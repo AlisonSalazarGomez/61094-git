@@ -42,7 +42,8 @@ git merge dev
 ## SARASA, todo piola!
 
 ## pasar a rama principal
-```sh git swtich master
+```sh 
+git swtich master
 git merge dev
 ```
 
